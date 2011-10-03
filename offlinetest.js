@@ -1,3 +1,5 @@
+// for more information about these events check out: http://www.html5rocks.com/en/tutorials/appcache/beginner/
+
 var appCache = window.applicationCache;
 
 function handleCacheEvent(e) 
