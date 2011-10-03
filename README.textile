@@ -2,5 +2,5 @@ h2. Minimal HTML5 iPad Offline Cache Test
 
 This is a simple HTML5 webpage that can be used offline on an iPad. Add it to the homescreen, and it will open as a "webclip" / webapp in fullscreen without any safari elements at top (URL bar, etc.).
 
-Try out "the demo here":http://dev.bybjorn.com/ipadoffline/ or read more about "it in the blogpost":http://www.bybjorn.com/723/
+Try out "the demo here":http://dev.bybjorn.com/ipadoffline/ or read more about "it in the blogpost":http://www.bybjorn.com/723/.
 
