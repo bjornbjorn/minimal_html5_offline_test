@@ -1,0 +1,7 @@
+h2. Minimal HTML5 iPad Offline Cache Test
+
+This is a simple HTML5 webpage that can be used offline on an iPad. Add it to the homescreen, and it will open as a "webclip" / webapp in fullscreen without any safari elements at top (URL bar, etc.).
+
+If this template does not work something is 1) wrong with your server or 2) wrong with your ipad ;-)
+
+More info coming ..
